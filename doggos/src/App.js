@@ -43,8 +43,6 @@ class App extends React.Component {
         })
     }
 
-console.log('Hello World')
-
     render() {
         console.log('render function ran');
         return (
